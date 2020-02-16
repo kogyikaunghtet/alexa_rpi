@@ -9,7 +9,7 @@ IoT device တွေအနေနဲ့ နာမည်ကြီးတဲ့ Amaz
 <br>
 `$ cd alexa_rpi`
 
-alexa_pi directory အောက်က alexa.py ကို ဖွင့်ဖတ်ကြည့်ရင် yellow, green, red, blue မီးတွေအတွက် Raspberry Pi Physical Pin နံပါတ် 11, 12, 13, 14 ကို အသုံးပြုထားပါတယ်။ alexa.py ကို run ထားပြီး Alexa echo dot ကို “Alexa, discover all devices” လို့ ပြောကာ Raspberry Pi သို့ ချိတ်ဆက်စေနိုင်ပါတယ်။
+alexa_pi directory အောက်က alexa.py ကို ဖွင့်ဖတ်ကြည့်ရင် yellow, green, red, blue မီးတွေအတွက် Raspberry Pi Physical Pin နံပါတ် 11, 12, 13, 14 ကို အသုံးပြုထားပါတယ်။ alexa.py ကို run ထားပြီး Alexa echo dot ကို <b>“Alexa, discover all devices” </b>လို့ ပြောကာ Raspberry Pi သို့ ချိတ်ဆက်စေနိုင်ပါတယ်။
 
 Raspberry Pi နဲ့ Alexa Echo ချိတ်ဆက်ပြီးနောက် “turn on yellow light” ဖြစ်စေ၊ “turn off yellow light” ဖြစ်စေ voice command ပေးကာ မီးအဖွင့်အပိတ် ပြုလုပ်နိုင်တဲ့အပြင် Alexa App ကနေလည်း အင်တာနက်ရရှိတဲ့ မည်သည့် နေရာမှမဆို On/Off ခလုတ်တွေ နှိပ်ခြင်း၊ Voice command ပေးခြင်းဖြင့် ထိန်းချုပ်ခိုင်းစေနိုင်ပါတယ်။
 
