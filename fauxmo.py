@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 """
 The MIT License (MIT)
@@ -41,7 +41,7 @@ import logging
 # This XML is the minimum needed to define one of our virtual switches
 # to the Amazon Echo
 
-SETUP_XML ="""<?xml version=1.0?>
+SETUP_XML ="""<?xml version="1.0" ?>
             <root>
              <device>
                 <deviceType>urn:Belkin:device:controllee:1</deviceType>
