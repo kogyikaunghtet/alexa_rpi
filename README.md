@@ -3,10 +3,6 @@ Voice controlled home automation system using Amazon Alexa and Raspberry Pi
 
 [![IMAGE ALT TEXT](https://kogyikaunghtet.github.io/assets/img/alexa/alexa.png)](https://www.youtube.com/watch?v=sHf-R44n804 "Alexa_RPi")
 
-<div class="responsive-embed flex-video">
-<iframe width="640" height="360" src="https://www.youtube.com/embed/sHf-R44n804" title="YouTube video player" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
-
 IoT device တွေအနေနဲ့ နာမည်ကြီးတဲ့ Amazon Alexa Echo dot လို voice controlled smart speaker တွေကို Raspberry Pi နဲ့ တွဲဖက် အသုံးပြုမယ်ဆိုရင် Amazon Smart Plug လို ပစ္စည်းတွေ ထပ်သုံးစရာ မလိုတော့ပဲ modify များစွာ ဆက်လုပ်လို့ ရပါတယ်။ ဒီလို Alexa Echo နဲ့ Raspberry Pi ချိတ်ဆက်ပြီး မီး အဖွင့်အပိတ်တွေ ပြုလုပ်ဖို့အတွက် အောက်ပါအတိုင်း program ကို download ရယူပြီး စမ်းသပ်ကြည့်နိုင်ပါတယ်။
 
 `$ git clone https://github.com/kogyikaunghtet/alexa_rpi`
